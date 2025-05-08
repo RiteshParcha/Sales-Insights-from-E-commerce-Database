@@ -18,8 +18,8 @@ Used SQL to extract insights from an e-commerce sales database that contains cus
 
 **How to Use**
 
- Download the Excel file and explore data.
- Run SQL queries in a database to analyze trends.
+1. Download the Excel file and explore data.
+2. Run SQL queries in a database to analyze trends.
 
 **Key Tasks:**
 1. Top 10 customers by revenue.
