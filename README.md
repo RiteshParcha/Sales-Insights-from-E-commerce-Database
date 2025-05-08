@@ -40,6 +40,8 @@
    
 **Tool Used:** 
 MySQL
+MySQL Database Name: ForJob
+Table Names: Customers, Orders, Order_Items, Products, Categories
 
 **Sample data:** 
 Took Online e-commerce sales data that contains customer orders, products, categories, and shipment details
