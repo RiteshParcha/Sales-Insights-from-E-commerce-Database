@@ -1,5 +1,6 @@
-Sales Insights from E-commerce Database
-Used SQL to extract insights from an e-commerce sales database that contains customer orders, products, categories, and shipment details.
+**Sales Insights from E-commerce Database**
+
+*Used SQL to extract insights from an e-commerce sales database that contains customer orders, products, categories, and shipment details.*
 
 **e-commerce sales database Tables with Header Name:**
 1. customers(customer_id, name, region)
