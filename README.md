@@ -8,6 +8,19 @@ Used SQL to extract insights from an e-commerce sales database that contains cus
 4. products(product_id, name, category_id)
 5. categories(category_id, category_name)
 
+**File Used:**   
+SalesDataAnalysisECommersDatabase.sql - **SQL Script**
+Customers-**Raw dataset**
+Orders-**Raw dataset**
+Order_Items-**Raw dataset**
+Products-**Raw dataset**
+Categories-**Raw dataset**
+
+**How to Use**
+
+Download the Excel file and explore data.
+Run SQL queries in a database to analyze trends.
+
 **Key Tasks:**
 1. Top 10 customers by revenue.
 2. Monthly revenue trend.
@@ -15,6 +28,7 @@ Used SQL to extract insights from an e-commerce sales database that contains cus
 4. Delayed shipments – identify orders shipped late.
 5. Region-wise performance – total sales by customer region.
 6. Repeat customers – who purchased more than once.
+
 
 **SQL Concepts Used:**
 1. Joins
