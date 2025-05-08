@@ -1,7 +1,7 @@
 Sales Insights from E-commerce Database
 Used SQL to extract insights from an e-commerce sales database that contains customer orders, products, categories, and shipment details.
 
-**Sample Tables:**
+**e-commerce sales database Tables with Header Name:**
 1. customers(customer_id, name, region)
 2. orders(order_id, customer_id, order_date, ship_date, total_amount)
 3. order_items(order_item_id, order_id, product_id, quantity, price)
@@ -9,17 +9,17 @@ Used SQL to extract insights from an e-commerce sales database that contains cus
 5. categories(category_id, category_name)
 
 **File Used:**   
-SalesDataAnalysisECommersDatabase.sql - **SQL Script**
-Customers-**Raw dataset**
-Orders-**Raw dataset**
-Order_Items-**Raw dataset**
-Products-**Raw dataset**
-Categories-**Raw dataset**
+1. SalesDataAnalysisECommersDatabase.sql - **SQL Script**
+2. Customers-**Raw dataset**
+3. Orders-**Raw dataset**
+4. Order_Items-**Raw dataset**
+5. Products-**Raw dataset**
+6. Categories-**Raw dataset**
 
 **How to Use**
 
-Download the Excel file and explore data.
-Run SQL queries in a database to analyze trends.
+ Download the Excel file and explore data.
+ Run SQL queries in a database to analyze trends.
 
 **Key Tasks:**
 1. Top 10 customers by revenue.
